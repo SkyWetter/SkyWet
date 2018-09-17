@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">testApp</string>
+    <string name="todo">TODO</string>
+    <string name="thing_a_thing">Changed via strings.xml</string>
+    <string name="mainText">dfdf</string>
+</resources>
